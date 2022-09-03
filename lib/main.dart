@@ -6,7 +6,7 @@ void main() {
     MaterialApp(
       home: Scaffold(
         // : new ThemeData.dark(),
-        backgroundColor: Colors.amber,
+        backgroundColor: Colors.amber[300],
         appBar: AppBar(
           title: Center(
             child: Text('Dice'),
