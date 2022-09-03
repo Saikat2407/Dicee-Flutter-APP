@@ -11,7 +11,7 @@ void main() {
           title: Center(
             child: Text('Dice'),
           ),
-          backgroundColor: Colors.red,
+          backgroundColor: Colors.red.shade300,
         ),
         body: DicePage(),
       ),
